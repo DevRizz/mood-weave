@@ -23,7 +23,7 @@ Traditional journaling can feel overwhelming or inadequate when trying to captur
 ## 🎨 **Demo & Screenshots**
 
 ### 📹 **Demo Video**
-[![Mood Weave Demo](https://raw.githubusercontent.com/DevRizz/mood-weave/main/images/video-thumbnail.png)](https://www.youtube.com/watch?v=abcd1234)
+[![Mood Weave Demo](https://raw.githubusercontent.com/DevRizz/mood-weave/main/images/video-thumbnail.png)](https://youtu.be/WMx13BgLRt8)
 *Click to watch the full demo video*
 
 ### 📸 **App Screenshots**
