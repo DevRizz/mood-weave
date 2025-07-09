@@ -252,7 +252,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 **Support & Community**
 
 - 🌐 **Website**: [moodweave.app](https://mood-weave.vercel.app/)
-- 💬 **Discord**: [Join our community](https://discord.gg/carpediem01872)
+- 💬 **Discord**: [Join our community](https://discord.gg/AUzCkssc)
 - 🐦 **Twitter**: [@MoodWeaveApp](https://twitter.com/antimadboy)
 - 📧 **Email**: devruntimerror69@gmail.com
 
