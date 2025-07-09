@@ -2,7 +2,7 @@
 
 > *"Weave your emotions into a beautiful tapestry of self-discovery"*
 
-![Mood Weave Hero](./demo/hero-screenshot.png)
+![Mood Weave Hero](https://raw.githubusercontent.com/DevRizz/mood-weave/main/images/hero-screenshot.png)
 
 ## 🌟 **What is Mood Weave?**
 
@@ -23,18 +23,18 @@ Traditional journaling can feel overwhelming or inadequate when trying to captur
 ## 🎨 **Demo & Screenshots**
 
 ### 📹 **Demo Video**
-[![Mood Weave Demo](./demo/video-thumbnail.png)](./demo/mood-weave-demo.mp4)
+[![Mood Weave Demo](https://raw.githubusercontent.com/DevRizz/mood-weave/main/images/video-thumbnail.png)](https://www.youtube.com/watch?v=abcd1234)
 *Click to watch the full demo video*
 
 ### 📸 **App Screenshots**
 
 | Today's Thread Creation | Your Emotional Tapestry | Analytics & Insights |
 |------------------------|-------------------------|---------------------|
-| ![Thread Creator](./demo/thread-creator.png) | ![Tapestry View](./demo/tapestry-view.png) | ![Analytics](./demo/analytics.png) |
+| ![Thread Creator](https://raw.githubusercontent.com/DevRizz/mood-weave/main/images/thread-creator.png) | ![Tapestry View](https://raw.githubusercontent.com/DevRizz/mood-weave/main/images/tapestry-view.png) | ![Analytics](https://raw.githubusercontent.com/DevRizz/mood-weave/main/images/analytics.png) |
 
 | Dark Mode | Mobile Experience | Thread Patterns |
 |-----------|------------------|-----------------|
-| ![Dark Mode](./demo/dark-mode.png) | ![Mobile](./demo/mobile-view.png) | ![Patterns](./demo/thread-patterns.png) |
+| ![Dark Mode](https://raw.githubusercontent.com/DevRizz/mood-weave/main/images/dark-mode.png) | ![Mobile](https://raw.githubusercontent.com/DevRizz/mood-weave/main/images/mobile-view.png) | ![Patterns](https://raw.githubusercontent.com/DevRizz/mood-weave/main/images/thread-patterns.png) |
 
 ---
 
